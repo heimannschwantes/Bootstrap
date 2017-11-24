@@ -36,6 +36,10 @@ most basic html structure
 
 ## Grid System
 
+See:
+- https://getbootstrap.com/docs/4.0/layout/grid/
+- https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
+
 ### Container > Row > Column
 
 #### Container
