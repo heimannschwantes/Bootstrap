@@ -55,7 +55,7 @@ fixed-width container (meaning its max-width changes at each breakpoint)
 [Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
 
 ### Breakpoints
-
+```css
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575px) { ... }
 
@@ -70,6 +70,7 @@ fixed-width container (meaning its max-width changes at each breakpoint)
 
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
+```
 
 
 
