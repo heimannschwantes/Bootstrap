@@ -9,6 +9,7 @@ aktuelle Version: v4.0.0-beta.2
 ```
 
 ## Starter template
+basic html structure
 [Source](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
 
 ```html
