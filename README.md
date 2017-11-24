@@ -32,6 +32,8 @@ aktuelle Version: v4.0.0-beta.2
 
 ## Grid System
 
+### Container
+
 the bootstrap grid system requires any of the two (.container / .container-fluid) container-classes.
 
 ```html
@@ -47,6 +49,8 @@ fixed-width container (meaning its max-width changes at each breakpoint)
 </div>
 ```
  fluid-width (meaning it’s 100% wide all the time)
+ 
+[Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
 
 
 
