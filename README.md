@@ -69,7 +69,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 - Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background).
 - grid columns without a specified width will automatically layout as equal width columns (flexbox behaviour)
 
-#### basic example
+#### basic example (Container > Row > Column)
 - 2 `.row`s; 1st `.row` with 2 `.col`s, 2nd row with 3 `.col`s. All `.col`s have an equal with within their `.row` since there is no width specified
 ```html
 <div class="container">
