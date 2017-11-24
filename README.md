@@ -30,7 +30,7 @@ html base structure
   </body>
 </html>
 ```
-###### Source: https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
+Source: https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
 
 :point_right: [Codepen Template](https://codepen.io/heimannschwantes/pen/qVKxme)
 
