@@ -37,7 +37,7 @@ Source: https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-
 
 ## Grid System
 
-See:
+Links for more information:
 - https://getbootstrap.com/docs/4.0/layout/grid/
 - https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
 
