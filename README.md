@@ -2,7 +2,9 @@
 # Bootstrap documentation :thumbsup:
 aktuelle Version: v4.0.0-beta.2
 
-## Starter template (basic html structure)
+## Starter template
+
+most basic html structure
 
 ```html
 <!doctype html>
