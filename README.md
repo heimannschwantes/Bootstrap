@@ -2,12 +2,6 @@
 # Bootstrap documentation 
 aktuelle Version: v4.0.0-beta.2
 
-```html
-<div class="container">
-  <!-- Content here -->
-</div>
-```
-
 ## Starter template
 basic html structure
 [Source](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
@@ -34,6 +28,13 @@ basic html structure
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
   </body>
 </html>
+```
+
+
+```html
+<div class="container">
+  <!-- Content here -->
+</div>
 ```
 
 
