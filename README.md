@@ -94,6 +94,25 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
   </div>
 </div>
 ```
+[Source](https://getbootstrap.com/docs/4.0/layout/grid/#equal-width)
+
+```html
+<!-- Control the column width, and how they should appear on different devices -->
+<div class="row">
+  <div class="col-*-*"></div>
+  <div class="col-*-*"></div>
+  <div class="col-*-*"></div>
+</div>
+
+<!-- Or let Bootstrap automatically handle the layout -->
+<div class="row">
+  <div class="col"></div>
+  <div class="col"></div>
+  <div class="col"></div>
+  <div class="col"></div>
+</div>
+```
+[Source](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
 
 
 ### Breakpoints
