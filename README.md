@@ -186,19 +186,21 @@ See: https://getbootstrap.com/docs/4.0/layout/grid/#alignment
 #### :point_right: [Codepen vertical alignment](https://codepen.io/heimannschwantes/pen/ooyEyj)
 
 ## Typography
-
 - https://getbootstrap.com/docs/4.0/content/typography/
+- https://www.w3schools.com/bootstrap4/bootstrap_typography.asp
+- Background and Text Colors: https://www.w3schools.com/bootstrap4/bootstrap_colors.asp
 
 ## Images
-
 - https://getbootstrap.com/docs/4.0/content/images/
+- https://www.w3schools.com/bootstrap4/bootstrap_images.asp
 
 ## Tables
 - https://getbootstrap.com/docs/4.0/content/tables/
+- https://www.w3schools.com/bootstrap4/bootstrap_tables.asp
 
 ## Components
-
 - https://getbootstrap.com/docs/4.0/components/
+- See also here: https://www.w3schools.com/bootstrap4/
 
 
 ## Link List
@@ -207,7 +209,7 @@ See: https://getbootstrap.com/docs/4.0/layout/grid/#alignment
 - https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 ##### B4 Tutorial – W3Schools
-- https://www.w3schools.com/bootstrap4/default.asp
+- https://www.w3schools.com/bootstrap4/
 
 ##### Bootstrap 4 Cheat Sheet
 - https://hackerthemes.com/bootstrap-cheatsheet/
