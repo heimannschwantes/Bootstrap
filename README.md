@@ -47,14 +47,14 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
   <!-- Content here -->
 </div>
 ```
-fixed-width container (meaning its max-width changes at each breakpoint)
+  - fixed-width container (meaning its max-width changes at each breakpoint)
 
 ```html
 <div class="container-fluid">
   <!-- Content here -->
 </div>
 ```
- fluid-width (meaning it’s 100% wide all the time)
+  - fluid-width (meaning it’s 100% wide all the time)
  
 [Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
 
