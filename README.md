@@ -183,6 +183,9 @@ See: https://getbootstrap.com/docs/4.0/layout/grid/#alignment
 </div>
 ```
 
+#### :point_right: [Codepen vertical alignment](https://codepen.io/heimannschwantes/pen/ooyEyj)
+
+
 ## Link List
 
 ##### B4 Documentation – getbootstrap
