@@ -61,13 +61,38 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 #### Row
 - In the grid layout, content must be placed within columns and only columns may be immediate children of rows
   - `.container` (or `.container-fluid`) = wrapper for `.row`
-  - `.row` = wrapper for `.col-x`
+  - `.row` = wrapper for `.col`
 
 #### Column
 
 - max. 12 columns per row
 - Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background).
 - grid columns without a specified width will automatically layout as equal width columns (flexbox behaviour)
+
+
+```html
+<div class="container">
+  <div class="row">
+    <div class="col">
+      1 of 2
+    </div>
+    <div class="col">
+      2 of 2
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      1 of 3
+    </div>
+    <div class="col">
+      2 of 3
+    </div>
+    <div class="col">
+      3 of 3
+    </div>
+  </div>
+</div>
+```
 
 
 ### Breakpoints
