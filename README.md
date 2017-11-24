@@ -5,7 +5,7 @@ aktuelle Version: v4.0.0-beta.2
 
 ## Starter template
 
-most basic html structure
+html base structure
 
 ```html
 <!doctype html>
