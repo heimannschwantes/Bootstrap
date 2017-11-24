@@ -140,7 +140,7 @@ Source: https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 ```
-—> [Source](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)
+Source: https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints
 
 
 ### Grid Classes and Options
@@ -155,6 +155,7 @@ Source: https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
 
 ![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-24%20um%2011.47.50.png)
 —> [Source](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
+
 
 ### Vertical alignment
 
