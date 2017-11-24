@@ -36,10 +36,9 @@ most basic html structure
 
 ## Grid System
 
-Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background).
+### Container > Row > Column
 
-
-### Container
+#### Container
 
 the bootstrap grid system requires any of the two (`.container` / `.container-fluid`) container-classes.
 
@@ -58,6 +57,17 @@ fixed-width container (meaning its max-width changes at each breakpoint)
  fluid-width (meaning it’s 100% wide all the time)
  
 [Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
+
+#### Row
+In the grid layout, content must be placed within columns and only columns may be immediate children of rows
+`.container` (or `.container-fluid`) = wrapper for `.row`
+`.row` = wrapper for `.col-x`
+
+#### Column
+
+- Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background).
+- up to 12 columns per row
+- grid columns without a specified width will automatically layout as equal width columns (flexbox behaviour)
 
 
 ### Breakpoints
