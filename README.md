@@ -72,8 +72,8 @@ Source: https://getbootstrap.com/docs/4.0/layout/overview/#containers
 #### Column
 
 - max. 12 columns per row
-- Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background).
-- grid columns without a specified width will automatically layout as equal width columns (flexbox behaviour)
+- Since v4 the bootstrap grid system is built with flexbox grid columns without a specified width will automatically layout as equal width columns (flexbox behaviour
+- See also. [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
 
 #### basic example (Container > Row > Column)
 - 2 `.row`s; 1st `.row` with 2 `.col`s, 2nd row with 3 `.col`s. All `.col`s have an equal with within their `.row` since there is no width specified
