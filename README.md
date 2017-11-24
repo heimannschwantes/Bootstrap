@@ -2,8 +2,7 @@
 # Bootstrap documentation :thumbsup:
 aktuelle Version: v4.0.0-beta.2
 
-## Starter template
-basic html structure
+## Starter template (basic html structure)
 
 ```html
 <!doctype html>
@@ -31,12 +30,23 @@ basic html structure
 
 [Source](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
 
+##Grid System
+
+the bootstrap grid system requires any of the two (.container / .container-fluid) container-classes.
 
 ```html
 <div class="container">
   <!-- Content here -->
 </div>
 ```
+fixed-width container (meaning its max-width changes at each breakpoint)
+
+```html
+<div class="container-fluid">
+  <!-- Content here -->
+</div>
+```
+ fluid-width (meaning it’s 100% wide all the time)
 
 
 
