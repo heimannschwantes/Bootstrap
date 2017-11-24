@@ -84,3 +84,9 @@ fixed-width container (meaning its max-width changes at each breakpoint)
 ![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-22%20um%2010.46.52.png)
 
 [Source](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options)
+
+## Link Collection
+CSS-Tricks Flexbox Guide
+  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+Bootstrap 4 Cheat Sheet
+  - https://hackerthemes.com/bootstrap-cheatsheet/
