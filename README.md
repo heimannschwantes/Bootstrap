@@ -71,6 +71,21 @@ fixed-width container (meaning its max-width changes at each breakpoint)
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 ```
+[Source](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)
+
+   | Extra small  | Small   | Medium
+   | <576px	      | ≥576px  | ≥768px
+   |
+	
+	Large
+≥992px	Extra large
+≥1200px
+Max container width	None (auto)	540px	720px	960px	1140px
+Class prefix	.col-	.col-sm-	.col-md-	.col-lg-	.col-xl-
+# of columns	12
+Gutter width	30px (15px on each side of a column)
+Nestable	Yes
+Column ordering	Yes
 
 
 
