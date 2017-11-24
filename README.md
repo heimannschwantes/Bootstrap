@@ -31,7 +31,7 @@ most basic html structure
 </html>
 ```
 
-[Source](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
+--> [Source](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
 
 
 ## Grid System
@@ -56,7 +56,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 ```
 - fluid-width (meaning it’s 100% wide all the time)
  
-[Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
+--> [Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
 
 #### Row
 - In the grid layout, content must be placed within columns and only columns may be immediate children of rows
@@ -94,7 +94,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
   </div>
 </div>
 ```
-[Source](https://getbootstrap.com/docs/4.0/layout/grid/#equal-width)
+--> [Source](https://getbootstrap.com/docs/4.0/layout/grid/#equal-width)
 
 ```html
 <!-- Control the column width, and how they should appear on different devices -->
@@ -112,7 +112,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
   <div class="col"></div>
 </div>
 ```
-[Source](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
+--> [Source](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
 
 
 ### Breakpoints
@@ -132,7 +132,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 ```
-[Source](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)
+--> [Source](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)
 
 
 ### Grid Classes and Options
@@ -143,10 +143,10 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 - `.col-xl-` (xlarge devices - screen width equal to or greater than 1200px)
 
 ![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-22%20um%2010.46.52.png)\
-[Source](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options)
+--> [Source](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options)
 
 ![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-24%20um%2011.47.50.png)
-[Source](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
+--> [Source](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
 
 ## Link List
 
