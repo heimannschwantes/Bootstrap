@@ -6,7 +6,7 @@ aktuelle Version: v4.0.0-beta.2
 
 most basic html structure
 
-```
+```html
 <!doctype html>
 <html lang="en">
   <head>
@@ -53,6 +53,23 @@ fixed-width container (meaning its max-width changes at each breakpoint)
  fluid-width (meaning it’s 100% wide all the time)
  
 [Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
+
+### Breakpoints
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575px) { ... }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
 
 
 
