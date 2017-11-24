@@ -47,21 +47,21 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
   <!-- Content here -->
 </div>
 ```
-  - fixed-width container (meaning its max-width changes at each breakpoint)
+- fixed-width container (meaning its max-width changes at each breakpoint)
 
 ```html
 <div class="container-fluid">
   <!-- Content here -->
 </div>
 ```
-  - fluid-width (meaning it’s 100% wide all the time)
+- fluid-width (meaning it’s 100% wide all the time)
  
 [Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
 
 #### Row
-In the grid layout, content must be placed within columns and only columns may be immediate children of rows
-`.container` (or `.container-fluid`) = wrapper for `.row`
-`.row` = wrapper for `.col-x`
+- In the grid layout, content must be placed within columns and only columns may be immediate children of rows
+  - `.container` (or `.container-fluid`) = wrapper for `.row`
+  - `.row` = wrapper for `.col-x`
 
 #### Column
 
@@ -98,10 +98,10 @@ In the grid layout, content must be placed within columns and only columns may b
 ## Link List
 
 ##### Bootstrap 4 Documentation
-  - https://getbootstrap.com/docs/4.0/getting-started/introduction/
+- https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 ##### Bootstrap 4 Cheat Sheet
-  - https://hackerthemes.com/bootstrap-cheatsheet/
+- https://hackerthemes.com/bootstrap-cheatsheet/
   
 ##### CSS-Tricks Flexbox Guide
-  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
