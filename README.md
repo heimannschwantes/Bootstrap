@@ -61,7 +61,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 ```
 - fluid-width (meaning it’s 100% wide all the time)
  
-—> [Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
+Source: https://getbootstrap.com/docs/4.0/layout/overview/#containers
 
 #### Row
 - In the grid layout, content must be placed within columns and only columns may be immediate children of rows
@@ -99,7 +99,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
   </div>
 </div>
 ```
-—> [Source](https://getbootstrap.com/docs/4.0/layout/grid/#equal-width)
+Source: https://getbootstrap.com/docs/4.0/layout/grid/#equal-width
 
 ```html
 <!-- Control the column width, and how they should appear on different devices -->
@@ -117,7 +117,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
   <div class="col"></div>
 </div>
 ```
-—> [Source](https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp)
+Source: https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
 
 
 ### Breakpoints
