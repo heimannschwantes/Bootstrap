@@ -30,7 +30,7 @@ aktuelle Version: v4.0.0-beta.2
 
 [Source](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
 
-##Grid System
+## Grid System
 
 the bootstrap grid system requires any of the two (.container / .container-fluid) container-classes.
 
