@@ -1,5 +1,5 @@
 24.11.17
-# Bootstrap documentation 
+# Bootstrap documentation :thumbsup:
 aktuelle Version: v4.0.0-beta.2
 
 ## Starter template
