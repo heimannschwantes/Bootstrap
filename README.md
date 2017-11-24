@@ -102,6 +102,8 @@ Source: https://getbootstrap.com/docs/4.0/layout/overview/#containers
 ```
 Source: https://getbootstrap.com/docs/4.0/layout/grid/#equal-width
 
+#### :point_right: [Codepen B4 Grid 1–12 Columns](https://codepen.io/heimannschwantes/pen/POaeBw)
+
 ```html
 <!-- Control the column width, and how they should appear on different devices -->
 <div class="row">
