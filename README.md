@@ -36,7 +36,7 @@ most basic html structure
 
 ## Grid System
 
-Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background).
 
 
 ### Container
