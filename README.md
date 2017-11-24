@@ -32,7 +32,7 @@ html base structure
 ```
 ###### Source: https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
 
-[Codepen Template](https://codepen.io/heimannschwantes/pen/qVKxme)
+:point_right: [Codepen Template](https://codepen.io/heimannschwantes/pen/qVKxme)
 
 
 ## Grid System
