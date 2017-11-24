@@ -105,19 +105,19 @@ Source: https://getbootstrap.com/docs/4.0/layout/grid/#equal-width
 #### :point_right: [Codepen B4 Grid 1–12 Columns](https://codepen.io/heimannschwantes/pen/POaeBw)
 
 ```html
-<!-- Control the column width, and how they should appear on different devices -->
+<!-- Let Bootstrap automatically handle the layout -->
 <div class="row">
-  <div class="col-*-*"></div>
-  <div class="col-*-*"></div>
-  <div class="col-*-*"></div>
+  <div class="col"></div>
+  <div class="col"></div>
+  <div class="col"></div>
+  <div class="col"></div>
 </div>
 
-<!-- Or let Bootstrap automatically handle the layout -->
+<!-- Or Control the column width, and how they should appear on different devices -->
 <div class="row">
-  <div class="col"></div>
-  <div class="col"></div>
-  <div class="col"></div>
-  <div class="col"></div>
+  <div class="col-*-*"></div>
+  <div class="col-*-*"></div>
+  <div class="col-*-*"></div>
 </div>
 ```
 Source: https://www.w3schools.com/bootstrap4/bootstrap_grid_system.asp
