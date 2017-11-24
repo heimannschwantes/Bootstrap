@@ -73,20 +73,7 @@ fixed-width container (meaning its max-width changes at each breakpoint)
 ```
 [Source](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)
 
-   | Extra small  | Small   | Medium
-   | <576px	      | ≥576px  | ≥768px
-   |
-	
-	Large
-≥992px	Extra large
-≥1200px
-Max container width	None (auto)	540px	720px	960px	1140px
-Class prefix	.col-	.col-sm-	.col-md-	.col-lg-	.col-xl-
-# of columns	12
-Gutter width	30px (15px on each side of a column)
-Nestable	Yes
-Column ordering	Yes
+### GRID
 
-
-
-![logo](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-22%20um%2010.46.52.png)
+#### Grid Options overview
+![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-22%20um%2010.46.52.png)
