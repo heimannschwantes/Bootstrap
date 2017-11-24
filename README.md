@@ -128,8 +128,11 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 
 ## Link List
 
-##### Bootstrap 4 Documentation
+##### B4 Documentation – getbootstrap
 - https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+##### B4 Tutorial – W3Schools
+- https://www.w3schools.com/bootstrap4/default.asp
 
 ##### Bootstrap 4 Cheat Sheet
 - https://hackerthemes.com/bootstrap-cheatsheet/
