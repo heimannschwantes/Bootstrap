@@ -41,7 +41,7 @@ Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbo
 
 ### Container
 
-the bootstrap grid system requires any of the two (.container / .container-fluid) container-classes.
+the bootstrap grid system requires any of the two (`.container` / `.container-fluid`) container-classes.
 
 ```html
 <div class="container">
