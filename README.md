@@ -2,6 +2,7 @@
 # Bootstrap documentation :thumbsup:
 aktuelle Version: v4.0.0-beta.2
 
+
 ## Starter template
 
 most basic html structure
@@ -32,9 +33,11 @@ most basic html structure
 
 [Source](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template)
 
+
 ## Grid System
 
 Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+
 
 ### Container
 
@@ -56,6 +59,7 @@ fixed-width container (meaning its max-width changes at each breakpoint)
  
 [Source](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
 
+
 ### Breakpoints
 ```css
 // Extra small devices (portrait phones, less than 576px)
@@ -75,9 +79,8 @@ fixed-width container (meaning its max-width changes at each breakpoint)
 ```
 [Source](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)
 
-### GRID
 
-#### Grid Options overview
+### Grid Options overview
 ![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-22%20um%2010.46.52.png)
 
 [Source](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options)
