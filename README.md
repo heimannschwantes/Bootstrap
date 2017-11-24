@@ -65,8 +65,8 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 
 #### Column
 
+- max. 12 columns per row
 - Since v4 the bootstrap grid system is built with flexbox. See [CSS-Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background).
-- up to 12 columns per row
 - grid columns without a specified width will automatically layout as equal width columns (flexbox behaviour)
 
 
