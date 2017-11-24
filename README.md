@@ -185,6 +185,21 @@ See: https://getbootstrap.com/docs/4.0/layout/grid/#alignment
 
 #### :point_right: [Codepen vertical alignment](https://codepen.io/heimannschwantes/pen/ooyEyj)
 
+## Typography
+
+- https://getbootstrap.com/docs/4.0/content/typography/
+
+## Images
+
+- https://getbootstrap.com/docs/4.0/content/images/
+
+## Tables
+- https://getbootstrap.com/docs/4.0/content/tables/
+
+## Components
+
+- https://getbootstrap.com/docs/4.0/components/
+
 
 ## Link List
 
