@@ -123,7 +123,7 @@ the bootstrap grid system requires any of the two (`.container` / `.container-fl
 - `.col-lg-` (large devices - screen width equal to or greater than 992px)
 - `.col-xl-` (xlarge devices - screen width equal to or greater than 1200px)
 
-![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-22%20um%2010.46.52.png)
+![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-22%20um%2010.46.52.png)\
 [Source](https://getbootstrap.com/docs/4.0/layout/grid/#grid-options)
 
 ![bootstrap grid options](https://github.com/heimannschwantes/Bootstrap-documentation/blob/master/Bildschirmfoto%202017-11-24%20um%2011.47.50.png)
