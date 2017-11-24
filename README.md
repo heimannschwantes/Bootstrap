@@ -169,13 +169,12 @@ See: https://getbootstrap.com/docs/4.0/layout/grid/#alignment
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
   
   <style>
-  	.row {
-  		height: 90px;
-        margin: 1rem;
+    .row {
+      height: 90px;
+      margin: 1rem;
   	}
-    
     .col {
-    	height: 30px;
+      height: 30px;
     }
   </style>
 </head>
