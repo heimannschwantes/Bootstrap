@@ -6,7 +6,7 @@ aktuelle Version: v4.0.0-beta.2
 
 most basic html structure
 
-```html
+```
 <!doctype html>
 <html lang="en">
   <head>
